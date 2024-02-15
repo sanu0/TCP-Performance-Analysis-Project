@@ -36,7 +36,7 @@ The network consists of two routers (R1 and R2) connected by a wired link with a
 ## Instructions for Running the Simulation
 
 1.  Clone the repository: `git clone https://github.com/sanu0/TCP-Performance-Analysis-Project.git`
-2.  Navigate to the project directory: `cd TCP-Performance-Analysis`
+2.  Navigate to the project directory: `cd TCP-Performance-Analysis-Project`
 3.  Install ns-3 simulator following the official instructions.
 4.  Run the simulation script for each scenario.
 
